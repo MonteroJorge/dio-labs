@@ -1,2 +1,2 @@
-# dio-labs
+# DIO - Laboratórios
 Laboratórios realizados na Plataforma DIO
